@@ -109,7 +109,7 @@ class Ui_application_pages(object):
     def retranslateUi(self, application_pages):
         application_pages.setWindowTitle(QCoreApplication.translate("application_pages", u"StackedWidget", None))
         self.label_3.setText(QCoreApplication.translate("application_pages", u"Ol\u00e1...", None))
-        self.lineEdit.setPlaceholderText(QCoreApplication.translate("application_pages", u"Escreva o seu nome...", None))
+        self.lineEdit.setPlaceholderText(QCoreApplication.translate("application_pages", u"Escreva o seu nome....", None))
         self.btn_change_text.setText(QCoreApplication.translate("application_pages", u"Alterar texto", None))
         self.label_2.setText(QCoreApplication.translate("application_pages", u"P\u00e1gina 2", None))
         self.label.setText(QCoreApplication.translate("application_pages", u"P\u00e1gina 3", None))
