@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg256"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon_home.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview258"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="16mm"
+     units="px"
+     inkscape:zoom="49.4375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs253" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:export-ydpi="288.13419"
+       inkscape:export-xdpi="288.13419"
+       inkscape:export-filename="E:\ESTUDOS\TUTORIAIS\NEW\Qt Widgets Projects\PyOneDark\Layout\Exports\Preview_01.png"
+       id="path924"
+       class="ci-primary"
+       d="m 2.2591474,0.08067382 c -0.126761,-0.110868 -0.32292,-0.106982 -0.44471,0.0088 C 1.2735264,0.60368882 0.73266742,1.1179448 0.19175742,1.6321588 0.08585642,1.7328448 -3.5833333e-6,1.9329128 -3.5833333e-6,2.0790378 v 1.889698 A 0.26458332,0.26458332 0 0 0 0.26458742,4.2333198 H 1.3985074 a 0.26458332,0.26458332 0 0 0 0.264589,-0.264584 v -1.018815 a 0.13229166,0.13229166 0 0 1 0.132291,-0.132292 h 0.642559 a 0.13229166,0.13229166 0 0 1 0.132291,0.132292 v 1.018815 a 0.26458332,0.26458332 0 0 0 0.264579,0.264584 h 1.1339305 a 0.26458332,0.26458332 0 0 0 0.26459,-0.264584 v -1.896721 c 0,-0.146126 -0.0892,-0.34258 -0.19914,-0.438789 C 3.4425469,1.1156708 2.8508264,0.59818782 2.2591474,0.08067382 Z m -0.21784,0.301963 c 1.2e-4,-0.0016 1.2e-4,-0.0016 1.2e-4,-0.0016 z M 3.6079069,3.8640028 H 3.2073574 a 0.26458332,0.26458332 0 0 1 -0.264581,-0.264584 v -0.875328 c 0,-0.158767 -0.135379,-0.287474 -0.30238,-0.287474 h -1.082539 c -0.167001,0 -0.302381,0.128707 -0.302381,0.287474 v 0.875328 a 0.26458332,0.26458332 0 0 1 -0.26457998,0.264584 h -0.34208 a 0.26458332,0.26458332 0 0 1 -0.26459,-0.264584 v -1.307754 a 0.63429308,0.63429308 0 0 1 0.18802,-0.450739 L 1.9474174,0.47937082 c 0.0519,-0.0514 0.094,-0.09339 0.0942,-0.09339 L 3.6754279,1.8504858 a 0.59248394,0.59248394 0 0 1 0.19702,0.441184 v 1.307755 a 0.26458332,0.26458332 0 0 1 -0.26458,0.264585 z"
+       fill="var(--ci-primary-color, currentColor)"
+       style="fill:#c3ccdf;fill-opacity:1;stroke-width:0.00921352"
+       sodipodi:nodetypes="cccccccccccscsccssssccccccc" />
+  </g>
+</svg>
